@@ -1,0 +1,76 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: bisque;
+
+}
+
+body {
+    margin: 40px;
+    padding:3rem 5rem 0 3rem;
+    font-size: 1.5rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.Up {
+    list-style-type: none;
+    padding: 1rem;
+    text-align: center;
+    background-color:#df5151 ;
+    margin: 0;
+    width: 90ch ;
+}
+
+.Up li {
+    display: inline-block;
+    margin-inline: 6rem;
+
+}
+
+.Up li a {
+    color: blue;
+    text-decoration: none;
+}
+
+ header {
+    font-size: 2rem;
+    font-weight: 900;
+    color: black;
+    font-style: oblique;
+ }
+
+ .Cherry {
+    width: 70px;
+    float: left;
+
+}
+
+.clear {
+    clear: left;
+
+}
+
+.Para {
+    margin-left: 7rem;
+    text-align: justify;
+    word-spacing: 0.2rem;
+    line-height: 1.5;
+    width: 50ch;
+}
+
+a {
+    color: #f00;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: blue;
+}
+
+li {
+    list-style-position: inside;
+}
