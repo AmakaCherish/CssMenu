@@ -1,0 +1,30 @@
+*{
+    font-family: monospace;
+    border: 1px solid red;
+}
+
+body{
+    font-size: 22px;
+}
+
+h1, h2, h3 {
+    color: blue;
+}
+
+.hmmm{
+    text-transform: uppercase;
+    background-color: gold;
+}
+
+p{
+    color: purple !important ;
+}
+
+.blue {
+    color: green;
+}
+
+#sucker {
+    font-style: italic;
+}
+
